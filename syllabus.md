@@ -14,11 +14,11 @@
 
 ## 课件
 
-每节课的课件都会在课后上传到github上，请及时通过```git fetch```下载到本地（课件在"materials")
+每节课的课件都会在课后上传到github上，请及时通过```git fetch```下载到本地课件在materials中
 
 ## 作业
 
-每节课后留有1~2道作业，请通过```git fetch```命令查看作业，（作业放在"homework"对应课时的目录中）。提交作业请通过```git commit```+```git push```推送到"assignments"中。
+每节课后留有1~2道作业，请通过```git fetch```命令查看作业，（作业放在homework对应课时的目录中）。提交作业请通过```git commit```+```git push```推送到"assignments"中。
 
 
 
